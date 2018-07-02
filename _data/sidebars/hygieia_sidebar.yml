@@ -76,26 +76,24 @@ entries:
       url: /gitsetup.html
       output: web, pdf
   
-  - title: Signup and Login
-    output: web, pdf
-    folderitems:
-    - title: Admin User
-      url: /signup.html
-      output: web, pdf
-    - title: Other Users
-      url: /user_signup.html
-      output: web, pdf
-          
-  - title: Select your Dashboard
-    output: web, pdf
-    folderitems:
-    - title: Selecting Dashboards
-      url: /select_dashboard.html
-      output: web, pdf 
-  
   - title: Configuring Dashboards
     output: web, pdf
     folderitems:
+    
+    subfolders:
+      - title: Signup and Login
+        output: web, pdf
+        subfolderitems:
+           - title: Admin User
+             url: /signup.html
+             output: web, pdf
+           - title: Other Users
+             url: /user_signup.html
+             output: web, pdf
+    
+    - title: Select your Dashboard
+      url: /select_dashboard.html
+      output: web, pdf 
     - title: What are the Different Dashboards?
       url: /Introduction.html
       output: web, pdf

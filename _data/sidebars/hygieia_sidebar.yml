@@ -80,17 +80,17 @@ entries:
     output: web, pdf
     folderitems:
     - title: Admin User
-      url: signup.html
+      url: /signup.html
       output: web, pdf
     - title: Other Users
-      url: user_signup.html
+      url: /user_signup.html
       output: web, pdf
           
   - title: Select your Dashboard
     output: web, pdf
     folderitems:
     - title: Selecting Dashboards
-      url: select_dashboard.html
+      url: /select_dashboard.html
       output: web, pdf 
   
   - title: Configuring Dashboards
@@ -122,20 +122,18 @@ entries:
            - title: Cloud View
              url: /cloud_view.html
              output: web, pdf    
-      
-      subfolders:
       - title: The Product Dashboard
         output: web, pdf
         subfolderitems:
            - title: Introduction
-             url: product_dashboard_intro.html
+             url: /product_dashboard_intro.html
              output: web, pdf  
            - title: Create a Product Dashboard
-             url: product_view.html
+             url: /product_view.html
              output: web, pdf
       
     - title: Dashboard Administration
-      url: dashboard_administration.html
+      url: /dashboard_administration.html
       output: web, pdf
     
   - title: Audit APIs

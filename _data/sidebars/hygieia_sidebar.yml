@@ -99,10 +99,7 @@ entries:
     - title: What are the Different Dashboards?
       url: /Introduction.html
       output: web, pdf
-    - title: How to Select a Dashboard?
-      url: select_dashboard.html
-      output: web, pdf
-      
+          
       subfolders:
       - title: The Team Dashboard
         output: web, pdf

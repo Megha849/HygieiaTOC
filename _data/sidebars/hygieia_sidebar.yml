@@ -80,7 +80,7 @@ entries:
     output: web, pdf
     folderitems:
     - title: Prerequisites
-      url: /Introduction.html
+      url: /Prerequisites.html
       output: web, pdf
       
     subfolders:

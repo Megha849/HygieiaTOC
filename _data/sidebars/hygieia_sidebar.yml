@@ -61,7 +61,7 @@ entries:
            - title: Proxy Authentication
              url: /proxyauthentication.html
              output: web, pdf 
-
+  
   - title: Building Docker Image 
     output: web, pdf
     folderitems:
@@ -76,7 +76,7 @@ entries:
       url: /gitsetup.html
       output: web, pdf
   
-   - title: Signup and Login
+  - title: Signup and Login
     output: web, pdf
     folderitems:
     - title: Admin User
@@ -130,12 +130,12 @@ entries:
       - title: The Product Dashboard
         output: web, pdf
         subfolderitems:
-      - title: Introduction
-        url: product_dashboard_intro.html
-        output: web, pdf  
-      - title: Create a Product Dashboard
-        url: product_view.html
-        output: web, pdf
+           - title: Introduction
+             url: product_dashboard_intro.html
+             output: web, pdf  
+           - title: Create a Product Dashboard
+             url: product_view.html
+             output: web, pdf
       
     - title: Dashboard Administration
       url: dashboard_administration.html

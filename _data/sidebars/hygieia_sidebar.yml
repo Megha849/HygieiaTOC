@@ -79,11 +79,11 @@ entries:
   - title: Configuring Dashboards
     output: web, pdf
     folderitems:
-    - title: Prerequisites
-      url: /Prerequisites.html
+    - title: What are the Different Dashboards?
+      url: /Introduction.html
       output: web, pdf
-      
-    subfolders:
+              
+      subfolders:
       - title: Signup and Login
         output: web, pdf
         subfolderitems:
@@ -93,15 +93,12 @@ entries:
            - title: Other Users
              url: /user_signup.html
              output: web, pdf
-    
-    - title: Select your Dashboard
-      url: /select_dashboard.html
-      output: web, pdf 
-    - title: What are the Different Dashboards?
-      url: /Introduction.html
-      output: web, pdf
-          
-      subfolders:
+      - title: Select your Dashboard
+        output: web, pdf
+        subfolderitems:
+           - title: Selecting Dashboards
+             url: /select_dashboard.html
+             output: web, pdf      
       - title: The Team Dashboard
         output: web, pdf
         subfolderitems:

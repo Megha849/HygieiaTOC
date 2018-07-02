@@ -79,7 +79,10 @@ entries:
   - title: Configuring Dashboards
     output: web, pdf
     folderitems:
-    
+    - title: Prerequisites
+      url: /Introduction.html
+      output: web, pdf
+      
     subfolders:
       - title: Signup and Login
         output: web, pdf

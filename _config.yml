@@ -37,9 +37,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Hygieia Documentation
+#feedback_subject_line: Hygieia Documentation
 
-feedback_email: hygieia@capitalone.com
+#feedback_email: hygieia@capitalone.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 #feedback_disable: true
@@ -48,7 +48,7 @@ feedback_email: hygieia@capitalone.com
 feedback_text: "Contact Us"
 # if you uncomment the previous line, it changes the Feedback text
 
-#feedback_link: "https://gitter.im/capitalone/Hygieia"
+feedback_link: "https://gitter.im/capitalone/Hygieia"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge

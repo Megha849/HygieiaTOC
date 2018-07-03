@@ -32,22 +32,26 @@ entries:
     - title: Setup Instructions
       url: /setup.html
       output: web, pdf
-    - title: Database Configuration
+    - title: Database 
       url: /database.html
       output: web, pdf
-    - title: API Configuration
+    - title: API 
       url: /api.html
       output: web, pdf
-    - title: Audit API Configuration
+    - title: Audit API 
       url: /api-audit.html
       output: web, pdf
-    - title: UI Configuration
+    - title: UI 
       url: /ui.html
       output: web, pdf
+      
+  - title: Configuration 
+    output: web, pdf
+    folderitems:
     - title: Collectors' Configuration
       url: /collectors.html
-      output: web, pdf 
-
+      output: web, pdf
+      
       subfolders:
       - title: Additional Configuration
         output: web, pdf
@@ -61,7 +65,7 @@ entries:
            - title: Proxy Authentication
              url: /proxyauthentication.html
              output: web, pdf 
-  
+             
   - title: Building Docker Image 
     output: web, pdf
     folderitems:

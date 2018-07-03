@@ -45,7 +45,7 @@ feedback_email: hygieia@capitalone.com
 #feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-#feedback_text: "Feedback"
+feedback_text: "Contact Us"
 # if you uncomment the previous line, it changes the Feedback text
 
 #feedback_link: "https://gitter.im/capitalone/Hygieia"
